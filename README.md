@@ -1,4 +1,4 @@
-# Littleshell-A-Shell-from-Scratch
+# Littleshell
 
 **Tiny shell. Big attitude. No hand-holding.**
 
