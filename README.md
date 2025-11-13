@@ -1,4 +1,4 @@
-# Littleshell
+# LittleShell
 
 **Tiny shell. Big attitude. No hand-holding.**
 
