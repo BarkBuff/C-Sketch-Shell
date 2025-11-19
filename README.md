@@ -1,4 +1,4 @@
-# LittleShell
+# C-Sketch Shell
 
 **Tiny shell. Big attitude. No hand-holding.**
 
